@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smontico, I'm a Software Engineering with a Business Master degree from Montevideo, Uruguay 🇺🇾 🧉
+- 👋 Hi, I'm a Software Engineering with a Business Master degree from Montevideo, Uruguay 🇺🇾 🧉
 - 👀 I’m interested in Cloud Computing and Multi-Cloud Architectures
 - 🌱 I’m currently working on IBM 
 - 📫 How to reach me smontico@gmail.com
